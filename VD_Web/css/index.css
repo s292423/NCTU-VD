@@ -1,0 +1,100 @@
+#downbox {
+	width: 100%; 
+	/* height: 100%;  */
+	/* float:right; */
+	/* margin: 0 auto */
+} 
+#rightbox {
+	width: 100%;
+	background-color:white;
+	padding:20px;
+}
+#leftbox{
+	width: 100%;
+	background-color:white;
+	padding:20px;
+}
+#space{
+	width: 100%;
+	background-color:white;
+	border: 1px solid #ced4da;
+	border-radius: 0.25rem;
+	height: 100px;
+	padding:5px;
+	font-family: 'Microsoft JhengHei';
+	overflow-y: auto;
+}
+#rightdown{
+	width: 100%;
+	height: 192px;
+	margin-bottom: 14px;
+	overflow-y: auto;
+	border: 1px solid #ced4da;
+	border-radius: 0.25rem;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.custom-checkbox{
+	margin-left: 10px;
+}
+.color-left{
+	background-color: blanchedalmond;
+	border-radius: 50em;
+	margin-bottom: 10px;
+}
+.color-right{
+	background-color: khaki;
+	border-radius: 50em;
+	margin-bottom: 10px;
+}
+.navbar-dark .navbar-text{
+	color:rgba(255,255,255,1);
+	font-size: 25px;
+	margin: 0 auto;
+	font-family: 'Microsoft JhengHei';
+}
+.rightdown{
+	background-color: #FF6666;
+}
+.navbar-light .navbar-text{
+	color:rgba(0,0,0,1);
+	font-size: 25px;
+	margin: 0 auto;
+	padding:0;
+	font-family: 'Microsoft JhengHei';
+}
+.font{
+	font-family: 'Microsoft JhengHei';
+	color:black;
+}
+.font-color{
+	font-family: 'Microsoft JhengHei';
+}
+
+
+/* .navbar .navbar-light .bg-light{
+	margin-bottom: 20px;
+} */
+#box{
+	text-align: center;
+}
+.header{
+	/* background-color: rgba(255, 255, 255, 0.5);  */
+	background-color:#FF6666;
+	border-bottom: 1px solid #dddddd; 
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.04);
+	position: absolute;
+	/* padding:8px; */
+	top: 0;
+	width: 100%;
+	margin: 0;
+}
+.container{
+	position: relative;
+}
+/* .col-6{
+	background-color: yellow;
+} */
+.costom{
+	padding:0;
+}
